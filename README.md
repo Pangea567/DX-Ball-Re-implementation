@@ -32,4 +32,5 @@ The game engine operates on a continuous loop:
 
 ### Run the Game
 1. Compile the source files:
+2. '''bash
 java OmerFarukKaragozModified.java
